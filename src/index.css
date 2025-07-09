@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body{
+    --tw-bg-opacity:1;
+    background-color: #e5fff9; 
+    /* background-color: #e0c3fc;   */
+    /* background-color: #ffd6e8; 
+    background-color: #f8fafc;  
+    background-color: #ffffff; 
+    background-color: #d0f5fe; 
+    background-color: #fef5d0;  */
+
+
+
+}
